@@ -1,6 +1,4 @@
-import math
 from typing import List
-from math import ceil
 
 
 def get_item_at_position(list_in: List, pos: int) -> List:
